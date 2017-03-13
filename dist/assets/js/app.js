@@ -1,0 +1,1 @@
+console.error("SyntaxError: /Users/justinrichards/Documents/TIY-FEE/demos/almanac/src/scripts/app.js: Unexpected token, expected , (22:3) while parsing file: /Users/justinrichards/Documents/TIY-FEE/demos/almanac/src/scripts/app.js");
